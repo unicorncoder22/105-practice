@@ -1,0 +1,37 @@
+/******Body****/
+body {
+  background-color: DarkCyan;
+}
+
+
+
+
+/*****Link*****/
+nav {
+  float: right;
+}
+
+nav ul li a {
+  color: red;
+  font-weight: bold;
+}
+/****Header****/
+header h1 {
+  color: #bbc085;
+  font-family: "source sans pro", sans-serif;
+  text-align: center;
+}
+
+
+/****Advice Section****/
+.advice h4 {
+  color: blue;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.advice p {
+  color: green
+  font-size: 18px;
+}
